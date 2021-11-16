@@ -1,99 +1,99 @@
-0001,Donut,Cake,,Regular,None
+0001,Donut,Cake,Regular,None
 
-0001,Donut,Cake,,Regular,Glazed
+0001,Donut,Cake,Regular,Glazed
 
-0001,Donut,Cake,,Regular,Sugar
+0001,Donut,Cake,Regular,Sugar
 
-0001,Donut,Cake,,Regular,Powdered Sugar
+0001,Donut,Cake,Regular,Powdered Sugar
 
-0001,Donut,Cake,,Regular,Chocolate with Sprinkles
+0001,Donut,Cake,Regular,Chocolate with Sprinkles
 
-0001,Donut,Cake,,Regular,Chocolate
+0001,Donut,Cake,Regular,Chocolate
 
-0001,Donut,Cake,,Regular,Maple
+0001,Donut,Cake,Regular,Maple
 
-0001,Donut,Cake,,Chocolate,None
+0001,Donut,Cake,Chocolate,None
 
-0001,Donut,Cake,,Chocolate,Glazed
+0001,Donut,Cake,Chocolate,Glazed
 
-0001,Donut,Cake,,Chocolate,Sugar
+0001,Donut,Cake,Chocolate,Sugar
 
-0001,Donut,Cake,,Chocolate,Powdered Sugar
+0001,Donut,Cake,Chocolate,Powdered Sugar
 
-0001,Donut,Cake,,Chocolate,Chocolate with Sprinkles
+0001,Donut,Cake,Chocolate,Chocolate with Sprinkles
 
-0001,Donut,Cake,,Chocolate,Chocolate
+0001,Donut,Cake,Chocolate,Chocolate
 
-0001,Donut,Cake,,Chocolate,Maple
+0001,Donut,Cake,Chocolate,Maple
 
-0001,Donut,Cake,,Blueberry,None
+0001,Donut,Cake,Blueberry,None
 
-0001,Donut,Cake,,Blueberry,Glazed
+0001,Donut,Cake,Blueberry,Glazed
 
-0001,Donut,Cake,,Blueberry,Sugar
+0001,Donut,Cake,Blueberry,Sugar
 
-0001,Donut,Cake,,Blueberry,Powdered Sugar
+0001,Donut,Cake,Blueberry,Powdered Sugar
 
-0001,Donut,Cake,,Blueberry,Chocolate with Sprinkles
+0001,Donut,Cake,Blueberry,Chocolate with Sprinkles
 
-0001,Donut,Cake,,Blueberry,Chocolate
+0001,Donut,Cake,Blueberry,Chocolate
 
-0001,Donut,Cake,,Blueberry,Maple
+0001,Donut,Cake,Blueberry,Maple
 
-0001,Donut,Cake,,Devil's Food,None
+0001,Donut,Cake,Devil's Food,None
 
-0001,Donut,Cake,,Devil's Food,Glazed
+0001,Donut,Cake,Devil's Food,Glazed
 
-0001,Donut,Cake,,Devil's Food,Sugar
+0001,Donut,Cake,Devil's Food,Sugar
 
-0001,Donut,Cake,,Devil's Food,Powdered Sugar
+0001,Donut,Cake,Devil's Food,Powdered Sugar
 
-0001,Donut,Cake,,Devil's Food,Chocolate with Sprinkles
+0001,Donut,Cake,Devil's Food,Chocolate with Sprinkles
 
-0001,Donut,Cake,,Devil's Food,Chocolate
+0001,Donut,Cake,Devil's Food,Chocolate
 
-0001,Donut,Cake,,Devil's Food,Maple
+0001,Donut,Cake,Devil's Food,Maple
 
-0002,donut,Raised,,Regular,None
+0002,donut,Raised,Regular,None
 
-0002,donut,Raised,,Regular,Glazed
+0002,donut,Raised,Regular,Glazed
 
-0002,donut,Raised,,Regular,Sugar
+0002,donut,Raised,Regular,Sugar
 
-0002,donut,Raised,,Regular,Powdered Sugar
+0002,donut,Raised,Regular,Powdered Sugar
 
-0002,donut,Raised,,Regular,Chocolate with Sprinkles
+0002,donut,Raised,Regular,Chocolate with Sprinkles
 
-0003,Donut,Old Fashioned,,Regular,None
+0003,Donut,Old Fashioned,Regular,None
 
-0003,Donut,Old Fashioned,,Regular,Glazed
+0003,Donut,Old Fashioned,Regular,Glazed
 
-0003,Donut,Old Fashioned,,Regular,Sugar
+0003,Donut,Old Fashioned,Regular,Sugar
 
-0003,Donut,Old Fashioned,,Regular,Powdered Sugar
+0003,Donut,Old Fashioned,Regular,Powdered Sugar
 
-0003,Donut,Old Fashioned,,Chocolate,None
+0003,Donut,Old Fashioned,Chocolate,None
 
-0003,Donut,Old Fashioned,,Chocolate,Glazed
+0003,Donut,Old Fashioned,Chocolate,Glazed
 
-0003,Donut,Old Fashioned,,Chocolate,Sugar
+0003,Donut,Old Fashioned,Chocolate,Sugar
 
-0003,Donut,Old Fashioned,,Chocolate,Powdered Sugar
+0003,Donut,Old Fashioned,Chocolate,Powdered Sugar
 
-0004,bar,Bar,,Regular,None
+0004,bar,Bar,Regular,None
 
-0004,bar,Bar,,Regular,Glazed
+0004,bar,Bar,Regular,Glazed
 
-0005,twist,Twist,,Regular,None
+0005,twist,Twist,Regular,None
 
-0005,twist,Twist,,Regular,Glazed
+0005,twist,Twist,Regular,Glazed
 
-0006,filled,Filled,,Regular,None
+0006,filled,Filled,Regular,None
 
-0006,filled,Filled,,Regular,Glazed
+0006,filled,Filled,Regular,Glazed
 
-0006,filled,Filled,,Regular,Sugar
+0006,filled,Filled,Regular,Sugar
 
-0006,filled,Filled,,Regular,Powdered Sugar
+0006,filled,Filled,Regular,Powdered Sugar
 
 
